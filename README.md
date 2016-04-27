@@ -1,4 +1,14 @@
-# Arc Theme
+# About
+
+This is a simple fork of [horst3180's Arc Theme](https://github.com/horst3180/arc-theme). I use this repository to keep track of minor changes I applied to the theme and I intend to keep it in sync with the upstream repository.
+
+# List of Changes
+
+- increased base font size from 9 to 11
+- changed font to *Ubuntu*
+
+
+# Original Readme: Arc Theme
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
